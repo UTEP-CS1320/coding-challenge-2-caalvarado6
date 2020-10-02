@@ -1,6 +1,6 @@
-##### Name: (Write your name here)
-##### Date: (Write the date here)
+##### Name: (Cristobal A Alvarado)
+##### Date: (10/1/20)
 
 ### CODING CHALLENGE #2: REPORT
 
-(Write your report here)
+The challenge for this lab was acceptable, I believe my knowledge was good enough to be able to create this code and make it work, using "if", and "if else" statements, the knowledge acquired from previous labs and lectures was more than what I was expecting. For the use of "if" statements I used 6 which I think were the minimum I could use with my actual knowledge, I think it could be less but I have no idea on how to make the code work using less "if" statements, I also modify the first part of the code that was provided, because in order to implement my method I had to modify it, otherwise, my code would not have been working as intended, for my method I had to use "AND" and "OR" logic together with "if" statements to clarify the range of the values and those not to exceed what the chart of values stated. I think there is a lot of things to do to improve the code and make it work 100% right, such as asking the user to input the data needed and also to state what would be an under normal blood pressure in case that the values of "s" and "d" are too low or if they are negative, in such case the code work but that would not make sense to have such values, I could have made it work properly but that was not asked by the instructor, I just did what the instructions told me to do, I tried to be as clear as possible and I put all my effort on it.
